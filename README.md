@@ -18,6 +18,8 @@ sometext
 - Docker
 - Numpy basic
 - Panda basic
+- sklearn (optional)
+- matplotlib basic (optional)
 - Tensorflow 2.0 basic
 - Pytorch basic
 - ROS basic
