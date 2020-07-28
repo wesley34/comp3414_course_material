@@ -6,8 +6,7 @@ Duckietown Project is an interdisciplinary robotics project that is designed for
 
 <a name="usage"></a>
 ## 2. Usage tips
-
-sometext
+Read through the notes' tips and complete the exercises provided.
 
 <a name="content"></a>
 ## 3. Content
@@ -18,8 +17,9 @@ sometext
 - Docker
 - Numpy basic
 - Panda basic
-- sklearn (optional)
+- sklearn basic
 - matplotlib basic (optional)
+- shap basic (optional)
 - Tensorflow 2.0 basic
 - Pytorch basic
 - ROS basic
