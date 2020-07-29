@@ -26,11 +26,7 @@ Read through the notes' tips and complete the exercises provided.
 - Reinforcement learning
 
 ## 4. Useful Link
-- Python Installation
-https://www.python.org/
-- IDE (Visual Studio Code)
-https://code.visualstudio.com/
--Duckietown Website
-https://duckietown.org/
--AIDO documentation
-https://docs.duckietown.org/daffy/
+- Python Installation https://www.python.org/
+- IDE (Visual Studio Code) https://code.visualstudio.com/
+-Duckietown Website https://duckietown.org/
+-AIDO documentation https://docs.duckietown.org/daffy/
