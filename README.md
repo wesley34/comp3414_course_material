@@ -28,13 +28,13 @@ Read through the notes' tips and complete the exercises provided.
 - Docker (refer to Duckietown Documentation)
 - Numpy basic
 - Panda basic
-- sklearn basic
+- sklearn basic (to be released)
 - matplotlib basic (optional)
 - shap basic (optional)
-- Tensorflow 2.0 basic
-- Pytorch basic
+- Tensorflow 2.0 basic (to be released)
+- Pytorch basic (On progress)
 - ROS basic (to be released)
-- Reinforcement learning
+- Reinforcement learning (On progress)
 
 ## 4. Useful Link
 - Python Installation https://www.python.org/
