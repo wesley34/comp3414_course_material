@@ -1,8 +1,12 @@
 # comp3414_course_material
 <a name="desc"></a>
 ## 0. Installatiion
+You may just download the file
+Or you can use git in cmd : (make sure you have downloaded git)
 - mkdir comp3414_course_material
-- git clone "" (if you have git installed)
+- cd comp3414_coruse_material 
+- git clone https://github.com/wesley34/comp3414_course_material.git 
+
 
 ## 1. Description
 
