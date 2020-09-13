@@ -1,7 +1,10 @@
 # comp3414_course_material
 <a name="desc"></a>
 ## 0. Installatiion
-You may just download the file
+You may just download the file:
+- press the code button (green button)
+- download zip
+- unzip it
 Or you can use git in cmd : (make sure you have downloaded git)
 - mkdir comp3414_course_material
 - cd comp3414_coruse_material 
