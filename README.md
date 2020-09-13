@@ -25,7 +25,7 @@ Read through the notes' tips and complete the exercises provided.
 - Python oop
 - Linux basic
 - Duckieshell (refer to Duckietown Documentation)
-- Docker (refer to Duckietown Documentation)
+- Docker (On progress)
 - Numpy basic
 - Panda basic
 - sklearn basic (to be released)
@@ -33,7 +33,7 @@ Read through the notes' tips and complete the exercises provided.
 - shap basic (optional)
 - Tensorflow 2.0 basic (to be released)
 - Pytorch basic (On progress)
-- ROS basic (to be released)
+- ROS basic (On progress)
 - Reinforcement learning (On progress)
 
 ## 4. Useful Link
