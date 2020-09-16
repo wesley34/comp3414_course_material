@@ -1,5 +1,17 @@
 # comp3414_course_material
 <a name="desc"></a>
+## 0. Installatiion
+You may just download the file:
+- press the code button (green button)
+- download zip
+- unzip it
+
+Or you can use git in cmd : (make sure you have downloaded git)
+- mkdir comp3414_course_material
+- cd comp3414_coruse_material 
+- git clone https://github.com/wesley34/comp3414_course_material.git 
+
+
 ## 1. Description
 
 Duckietown Project is an interdisciplinary robotics project that is designed for experiential learning, while applying technical knowledge in A.I. and robotics. In this project, students will learn knowledge about convolutional neural network, computer vision, artificial intelligence and robotics and implement AI algorithms to work on autodriving vehicles running in a real miniature environment. 
@@ -13,17 +25,17 @@ Read through the notes' tips and complete the exercises provided.
 - Python basic 
 - Python oop
 - Linux basic
-- Duckieshell
-- Docker
+- Duckieshell (refer to Duckietown Documentation)
+- Docker (On progress)
 - Numpy basic
 - Panda basic
-- sklearn basic
+- sklearn basic (to be released)
 - matplotlib basic (optional)
 - shap basic (optional)
-- Tensorflow 2.0 basic
-- Pytorch basic
-- ROS basic
-- Reinforcement learning
+- Tensorflow 2.0 basic (to be released)
+- Pytorch basic (On progress)
+- ROS basic (On progress)
+- Reinforcement learning (On progress)
 
 ## 4. Useful Link
 - Python Installation https://www.python.org/
